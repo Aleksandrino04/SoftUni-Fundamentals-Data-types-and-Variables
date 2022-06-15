@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\07. Water Overflow.exe
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\07. Water Overflow.deps.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\07. Water Overflow.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\ref\07. Water Overflow.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\bin\Debug\net5.0\07. Water Overflow.pdb
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\ref\07. Water Overflow.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.pdb
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Integer Operations\obj\Debug\net5.0\07. Water Overflow.genruntimeconfig.cache

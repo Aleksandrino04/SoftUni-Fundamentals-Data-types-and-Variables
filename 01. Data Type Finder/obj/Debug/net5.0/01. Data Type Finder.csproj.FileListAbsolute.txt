@@ -1,0 +1,23 @@
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\DEMOS.deps.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\DEMOS.runtimeconfig.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\DEMOS.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\DEMOS.exe
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.exe
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.deps.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\ref\01. Data Type Finder.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.pdb
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\DEMOS.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\bin\Debug\net5.0\DEMOS.pdb
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.CopyComplete
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\ref\01. Data Type Finder.dll
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.pdb
+C:\Users\maxib\source\repos\Data Types and Variables ex\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.genruntimeconfig.cache
